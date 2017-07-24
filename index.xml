@@ -6,8 +6,21 @@
     <description>Recent content on 雲に汁</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 24 Jul 2017 16:49:43 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 09:53:55 +0000</lastBuildDate>
     <atom:link href="https://silphire.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugoの第一印象</title>
+      <link>https://silphire.github.io/posts/hugo-first-impression/</link>
+      <pubDate>Mon, 24 Jul 2017 09:53:55 +0000</pubDate>
+      
+      <guid>https://silphire.github.io/posts/hugo-first-impression/</guid>
+      <description>&lt;p&gt;ある程度想像はしていた物の、なるほどまあ面倒くさい。
+スマホで文章を打ち込んで投稿することの手軽さを理解してしまった昨今、一つの記事を投稿するまでに為すべきことが多いし、それに加えて必ずPCを使って投稿しないといけないというのにもわずらわしさを感じてしまう。&lt;/p&gt;
+
+&lt;p&gt;ならばはてなブログやnoteやMediumを使っておけばいいじゃないかというのはまさしくその通り。なのでまだどうした物かと悩んでいる。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>最初のエントリ</title>
