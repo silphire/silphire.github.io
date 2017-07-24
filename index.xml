@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>雲に汁</title>
+    <link>https://silphire.github.io/index.xml</link>
+    <description>Recent content on 雲に汁</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 24 Jul 2017 16:49:43 +0900</lastBuildDate>
+    <atom:link href="https://silphire.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>最初のエントリ</title>
+      <link>https://silphire.github.io/posts/initial-entry/</link>
+      <pubDate>Mon, 24 Jul 2017 16:49:43 +0900</pubDate>
+      
+      <guid>https://silphire.github.io/posts/initial-entry/</guid>
+      <description>&lt;p&gt;ブログを書こうという気持ちになることが1年に1度くらいある。&lt;/p&gt;
+
+&lt;p&gt;他のことにかまけて忙しかったり何だりしているうちに書かなくなってそれっきりということが多いのだけれども、また久しぶりにブログを書きたいという気持ちが沸いて来た。ここ何年かははてなブログのお世話になっているのだけれども、何とはなしにGitHub Pagesを使ってみたいという気持ちになった。また仕事が忙しくなったりして長期間書き続けられる自信が無く、まずは細々とどこにも公開せずに書いていってみるのが良いのではないかと思ったからだ。&lt;/p&gt;
+
+&lt;p&gt;調べてみると、静的ページを作成するツールという物が世の中にはたくさんあり、それを使ってみるのが良いということだった。GitHub自身もJekyllという物を作っておりそれなりに良いものらしいが、Googleが言うところによればHugoが良いということだった。なので、特に使い比べをするわけでもなくHugoを導入してみることにした。&lt;/p&gt;
+
+&lt;p&gt;というわけで、今回はどれだけ書き続けられるのか分からないけれども、ひとまずは筆を取り始めてみたい。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
